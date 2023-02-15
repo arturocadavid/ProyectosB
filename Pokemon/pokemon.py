@@ -134,11 +134,6 @@ class Pokemon:
         money = np.random.choice(5000)
         print_con_delay(f"\nEl oponente te pagó ${money}.\n")        
 
-
-
-
-
-    
 if __name__ == '__main__':
     # Crear Pokemon
     Charizard = Pokemon('Charizard', 'fuego', ['Lanzallamas', 'Llamarada', 'Giro fuego' , 'Ascuas'],{'ataque': 12, 'defensa': 8})
