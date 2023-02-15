@@ -141,7 +141,7 @@ class Pokemon:
     
 if __name__ == '__main__':
     # Crear Pokemon
-    Charizard = Pokemon('Charizard', 'fuego', ['Lanzallamas', 'Pirotecnica', 'Giro fuego' , 'Ascuas'],{'ataque': 12, 'defensa': 8})
+    Charizard = Pokemon('Charizard', 'fuego', ['Lanzallamas', 'Llamarada', 'Giro fuego' , 'Ascuas'],{'ataque': 12, 'defensa': 8})
     Blastoise = Pokemon('Blastoise', 'agua', ['Pistola de agua', 'Burbuja', 'Hidropulso' , 'Hidrobomba'],{'ataque': 10, 'defensa': 10})
     Venusaur = Pokemon('Venusaur', 'planta', ['Latigo Cepa', 'Hoja afilada', 'Rayo solar' , 'Abatidoras'],{'ataque': 8, 'defensa': 12})
 
