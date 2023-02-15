@@ -145,4 +145,5 @@ if __name__ == '__main__':
     Blastoise = Pokemon('Blastoise', 'agua', ['Pistola de agua', 'Burbuja', 'Hidropulso' , 'Hidrobomba'],{'ataque': 10, 'defensa': 10})
     Venusaur = Pokemon('Venusaur', 'planta', ['Latigo Cepa', 'Hoja afilada', 'Rayo solar' , 'Abatidoras'],{'ataque': 8, 'defensa': 12})
 
+    # Elige Pokemon1.combate(Pokemon2) para el demo
     Venusaur.combate(Charizard)
